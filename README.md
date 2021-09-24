@@ -1,2 +1,2 @@
 # Form-Validation-Using-JavaScript
-Form Validation using JavaScript, HTML and CSS
+A Sign-Up form Validation using JavaScript, HTML and CSS
